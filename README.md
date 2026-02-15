@@ -12,4 +12,6 @@ The code is designed to work with the CPTAC Pancancer harmonized datasets which 
 
 Download the data and update the base_path variable in the script to point to your local data directory.
 
+The code in this repository supports data and results presented in Hahn et al. 2026, manuscript in preparation.
+
 This project is available for academic and research use.
